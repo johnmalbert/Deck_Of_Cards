@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Deck_of_Cards/1.0.0": {
+        "runtime": {
+          "Deck_of_Cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deck_of_Cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
